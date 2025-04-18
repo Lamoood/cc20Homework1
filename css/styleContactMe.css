@@ -1,0 +1,28 @@
+form{
+  border: 1px solid coral;
+  border-radius:20px;
+  padding: 40px;
+  width: 800px;
+}
+input, select, textarea{
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 12px;
+  font-size: 16px;
+  padding: 8px;
+  border: 1px solid rgb(76, 0, 13);
+}
+
+input[type=submit] {
+  background-color: rgb(255, 182, 250);
+  border: none;
+  color: blueviolet;
+  width: 20%;
+}
+
+input[type=reset] {
+  background-color: rgb(255, 182, 250);
+  border: none;
+  color: blueviolet;
+  width: 20%;
+}
